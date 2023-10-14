@@ -8,4 +8,4 @@ I got assistance from a tutor to improve my code.
 
 I checked Stack Overflow to get help with running code on multiple worksheets and structuring formula for Yearly Change.
 
-I consulted course material and Slack channel.
+I consulted course material and Slack channel. I attended office hours.
