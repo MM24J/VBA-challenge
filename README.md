@@ -1,13 +1,20 @@
-# VBA-challenge
+# Stock Market Analysis
 
-Module 2 Challenge
+Background:
 
-I ran this code on all 3 worksheets independently which worked. When I tried to run it on all 3 at the same time, it took a very long time to run, so I tested it on a small sample size, and it worked on all 3 worksheets.
+In this homework assignment, you will use VBA scripting to analyze generated stock market data.
 
-After receiving comments, I changed the first part of my code where it loops through the different worksheets. I tested it on the alphabetical_testing spreadsheet, and it worked on that workbook.
+Instructions
+Create a script that loops through all the stocks for one year and outputs the following information:
 
-I got assistance from a tutor to improve my code.
+The ticker symbol
 
-I checked Stack Overflow to get help with running code on multiple worksheets and structuring formula for Yearly Change.
+Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-I consulted course material and Slack channel. I attended office hours and got assistance from TA.
+The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+
+NOTE:
+
+Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+
+Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
