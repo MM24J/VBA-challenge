@@ -1,20 +1,3 @@
 # Stock Market Analysis
 
-Background:
-
-In this homework assignment, you will use VBA scripting to analyze generated stock market data.
-
-Instructions
-Create a script that loops through all the stocks for one year and outputs the following information:
-
-The ticker symbol
-
-Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
-
-The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
-
-NOTE:
-
-Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
-
-Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
+For this analysis I used historical stock market data over a 3 year period (2018-2020). Using VBA, I created a script that loops through the stock data for 1 year which outputs the stock's ticker symbol, the yearly change from the opening price at the beginning of the year to the closing price at the end of the year, the percentage change from the opening prices at the beginning of the year to the closing price at the end of the year, and the total volume of the stock. I added functionality to my script to output the Greatest % Increase, Greatest % Decrease, and Greatest Total Volume. Conditional formatting was used to highlight positive and negative changes.
